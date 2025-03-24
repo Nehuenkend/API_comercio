@@ -1,8 +1,8 @@
-#📦 API de Gestión de Comercio
+# 📦 API de Gestión de Comercio
 
 Esta es una API RESTful desarrollada con FastAPI y SQLAlchemy, diseñada para la gestión de productos en un comercio. Permite realizar operaciones CRUD sobre una base de datos MySQL.
 
-##🚀 Características
+## 🚀 Características
 
 Creación, lectura, actualización y eliminación de productos.
 
@@ -14,7 +14,7 @@ Conexión segura mediante variables de entorno.
 
 Implementación modular para escalabilidad.
 
-##📄 Documentación Interactiva
+## 📄 Documentación Interactiva
 Una vez ejecutada la API, puedes acceder a la documentación automática en:
 
 Swagger UI: http://127.0.0.1:8000/docs
