@@ -10,8 +10,6 @@ Esta es una API RESTful desarrollada con FastAPI y SQLAlchemy, diseñada para la
 
 ✅Endpoints documentados automáticamente con Swagger.
 
-✅Conexión segura mediante variables de entorno.
-
 ✅Implementación modular para escalabilidad.
 
 ## 📄 Documentación Interactiva
